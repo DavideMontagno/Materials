@@ -95,6 +95,7 @@ Collection of useful repositories divided per exam.
 
 ## PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [Brothehood94](https://github.com/Brotherhood94) - in italian :it:
+- [**Notes**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory%20Parallel.pdf) - [DavideMontagno](https://github.com/DavideMontagno) - in italian :it:
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94)
