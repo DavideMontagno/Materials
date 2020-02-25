@@ -60,7 +60,7 @@ Collection of useful repositories divided per exam.
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 
 ## HUMAN LANGUAGE TECHNOLOGIES
-- Be the first to contribute, open a pull request with your material!
+- [**Notes**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory.pdf) - [DavideMontagno](https://github.com/DavideMontagno) - in italian :it:
 
 ## ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
