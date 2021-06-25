@@ -60,7 +60,7 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## COMPUTATIONAL NEUROSCIENCE
-- Be the first to contribute, open a pull request with your material!
+[**Exercises 2020-2021**] (https://github.com/DavideMontagno/Magistrale/tree/master/ComputationalNeuroscience) - [Davide Montagno](https://github.com/DavideMontagno)
 
 ## DATA MINING
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
